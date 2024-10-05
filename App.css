@@ -1,0 +1,12 @@
+h1{
+  text-align: center;
+}
+.nav-link a{
+  padding-left: 30px;
+  margin-top: 3%;
+  text-decoration: none;
+}
+.PLogout {
+  position: relative;
+  left: 560%;
+}
